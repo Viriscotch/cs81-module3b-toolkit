@@ -3,3 +3,7 @@ double(2) = 4
 
 # square(n)
 square(3) = 9
+
+# isEven(n)
+isEven(4) = true
+isEven(5) = false
