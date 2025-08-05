@@ -16,3 +16,10 @@ function isEven(n) {
 }
 console.log("isEven(4) =", isEven(4));        // Testing
 console.log("isEven(5) =", isEven(5));        // Testing
+
+// isOdd Function
+function isOdd(n) {
+  return n % 2 !== 0;
+}
+console.log("isOdd(4) =", isOdd(4));          // Testing
+console.log("isOdd(5) =", isOdd(5));          // Testing
