@@ -1,0 +1,1 @@
+For every iconic changes I made, I could commit and therefore mark them. I didn't meet any obvious challenge, but I found this pattern could help a lot for tracing the development progress and rolling back to previous version to tackle different needs, fit different environments, and develop a new branches for different task.
