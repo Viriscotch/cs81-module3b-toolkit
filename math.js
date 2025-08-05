@@ -10,16 +10,22 @@ function square(n) {
 }
 console.log("square(3) =", square(3));      // Testing
 
-// isEven Function
+// IsEven Function
 function isEven(n) {
   return n % 2 === 0;
 }
 console.log("isEven(4) =", isEven(4));        // Testing
 console.log("isEven(5) =", isEven(5));        // Testing
 
-// isOdd Function
+// IsOdd Function
 function isOdd(n) {
   return n % 2 !== 0;
 }
 console.log("isOdd(4) =", isOdd(4));          // Testing
 console.log("isOdd(5) =", isOdd(5));          // Testing
+
+// Multiply Function
+function multiply(a, b) {
+  return a * b;
+}
+console.log("multiply(2, 3) =", multiply(2, 3)); // Testing

@@ -11,3 +11,6 @@ isEven(5) = false
 # isOdd(n)
 isOdd(4) = false
 isOdd(5) = true
+
+# multiply(n, m)
+multiply(2, 3) = 6

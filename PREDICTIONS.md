@@ -9,3 +9,6 @@ The function will tell if the input is even
 
 # isOdd(n)
 The function will tell if the input is odd
+
+# multiply(n)
+The function will multiply two inputs
